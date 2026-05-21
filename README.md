@@ -73,4 +73,9 @@ Durante este proyecto se ha trabajado:
 - diseño de casos de uso
 - trabajo colaborativo
 
+---
+
+## Vídeo de presentación del proyecto
+
+https://youtu.be/XNPCkHvuzQo
 
