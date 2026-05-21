@@ -2,7 +2,7 @@
 
 Proyecto enfocado en la gestión y administración de dispositivos y periféricos dentro del entorno educativo de Campus Digital FP.
 
-La aplicación fue diseñada para facilitar el control del inventario, la asignación de dispositivos, la gestión de incidencias y el seguimiento de los equipos utilizados por alumnado y profesorado. :contentReference[oaicite:0]{index=0}
+La aplicación fue diseñada para facilitar el control del inventario, la asignación de dispositivos, la gestión de incidencias y el seguimiento de los equipos utilizados por alumnado y profesorado. 
 
 ---
 
