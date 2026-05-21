@@ -62,7 +62,7 @@ Desarrollar una aplicación web funcional que permitiera gestionar de manera org
 
 ## Aprendizajes
 
-Durante este proyecto trabajé:
+Durante este proyecto se ha trabajado:
 
 - desarrollo frontend y backend
 - conexión entre PHP y MySQL
@@ -73,8 +73,4 @@ Durante este proyecto trabajé:
 - diseño de casos de uso
 - trabajo colaborativo
 
----
 
-## 👨‍💻 Autor
-
-Pablo López
